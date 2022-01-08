@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "434256918331",
+    "project_id": "mars-jaket",
+    "storage_bucket": "mars-jaket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434256918331:android:d6bd4b23ef655ab790291e",
+        "android_client_info": {
+          "package_name": "com.scranaver.marsjaket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434256918331-0aoplf06gqjmoar2j4s86rvn3hmrmo3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scranaver.marsjaket",
+            "certificate_hash": "65c4751c7b8f8c7e917488f2dabd10f46a65ab6a"
+          }
+        },
+        {
+          "client_id": "434256918331-8hgsp6pho8oj44r148ird548br05j5d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoaeFDLriKSf6bN3Fth3yWp0R3kS1H5kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434256918331-8hgsp6pho8oj44r148ird548br05j5d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
